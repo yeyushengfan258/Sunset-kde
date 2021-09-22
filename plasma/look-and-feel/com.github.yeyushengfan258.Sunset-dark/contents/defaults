@@ -2,19 +2,19 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=Win11OSDark
+ColorScheme=SunsetDark
 
 [kdeglobals][Icons]
 Theme=Win11
 
 [plasmarc][Theme]
-name=Win11OS-dark
+name=Sunset-dark
 
 [kwinrc][org.kde.kdecoration2]
 ButtonsOnLeft=XAI
 ButtonsOnRight=
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Win11OS-dark
+theme=__aurorae__svg__Sunset-dark
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors

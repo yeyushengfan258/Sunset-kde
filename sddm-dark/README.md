@@ -1,5 +1,5 @@
 
-Win11OS-dark sddm theme for KDE Plasma desktop.
+Sunset-dark sddm theme for KDE Plasma desktop.
 
 ## Installation
 

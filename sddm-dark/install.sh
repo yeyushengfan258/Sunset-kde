@@ -37,8 +37,8 @@ prompt () {
 
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
-  prompt -i "\n * Install Win11OS-dark in ${THEME_DIR}... "
-  cp -r "${REO_DIR}/Win11OS-dark" "${THEME_DIR}"
+  prompt -i "\n * Install Sunset-dark in ${THEME_DIR}... "
+  cp -r "${REO_DIR}/Sunset-dark" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"
 else

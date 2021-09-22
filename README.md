@@ -1,6 +1,6 @@
-## Win11OS KDE Theme
+## Sunset KDE Theme
 
-Win11OS kde is a light clean theme for KDE Plasma desktop.
+Sunset kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 

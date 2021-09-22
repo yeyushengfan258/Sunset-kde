@@ -42,7 +42,7 @@ Image {
         }
         Rectangle {
             radius: 3
-            color: "#505050"
+            color: "#2d2f46"
             anchors {
                 bottom: parent.bottom
                 bottomMargin: 50
